@@ -1,0 +1,24 @@
+{
+  "equipes": [
+    {
+      "nom": "Calais",
+      "adresse": "adresse_corrigée",
+      "id": 1
+    },
+    {
+      "nom": "PSG",
+      "adresse": "addr",
+      "id": 2
+    }
+  ],
+  "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "poste": "AG",
+      "piedFort": "D",
+      "nationalite": "Brazil",
+      "equipeId": 1
+    }
+  ]
+}
