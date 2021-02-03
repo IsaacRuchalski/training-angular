@@ -13,6 +13,9 @@
   },
   "author": "Isaac Ruchalski",
   "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
   "bugs": {
     "url": "https://github.com/IsaacRuchalski/training-angular/issues"
   },
