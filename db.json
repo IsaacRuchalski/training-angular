@@ -1,0 +1,27 @@
+{
+    "equipes": [
+      {
+        "id": 1,
+        "Nom": "PSG",
+        "adresse": "TOTO 75000 paris"
+      },
+      {
+        "id": 2,
+        "Nom": "Marseille",
+        "adresse": "Vieux port"
+      }
+    ],
+    "joueurs": [
+      {
+        "id": 1,
+        "nom": "Neymar",
+        "piedFort": "D",
+        "nationalite": "Brazil",
+        "equipeid": 1
+      },
+      {
+        "nom": "Lamoula",
+        "id": 2
+      }
+    ]
+  }
