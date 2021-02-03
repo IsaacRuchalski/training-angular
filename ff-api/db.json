@@ -19,6 +19,19 @@
       "piedFort": "D",
       "nationalite": "Brazil",
       "equipeId": 1
+    },
+    {
+      "nom": "put",
+      "nationalite": "test",
+      "id": 2
+    },
+    {
+      "nom": "J",
+      "poste": "AD",
+      "piedFort": "G",
+      "nationalite": "Pays",
+      "equipeId": 1,
+      "id": 3
     }
   ]
 }
