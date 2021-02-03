@@ -1,0 +1,23 @@
+{
+  "name": "training-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacRuchalski/training-angular.git"
+  },
+  "author": "Isaac Ruchalski",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "bugs": {
+    "url": "https://github.com/IsaacRuchalski/training-angular/issues"
+  },
+  "homepage": "https://github.com/IsaacRuchalski/training-angular#readme"
+}
