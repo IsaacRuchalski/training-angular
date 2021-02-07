@@ -1,0 +1,24 @@
+<!--<h2>{{rune.rune}} ({{rune.name | uppercase}})</h2>
+
+<div><span>{{rune.name}} translates to : {{rune.translation}} in Old Norse</span></div>
+<div><span>{{rune.rune}} represents {{rune.value}}</span></div>
+
+-->
+<h2>list of runes in Younger Fuþark</h2>
+
+<div id = "interface">
+      <div class = "runes">
+      <section *ngFor ="let rune of runes" (click) = "onSelect(rune)" [class.selected]= "rune === selectedRune">
+         
+         
+            <h3 class = "badge">{{rune.rune}}</h3>
+
+      </section>
+      </div>
+
+      
+      
+      <app-runes-detail [rune]="selectedRune" id = "rune"></app-runes-detail>
+      
+
+</div>

@@ -1,0 +1,70 @@
+
+div label, div span {
+
+
+
+}
+
+#interface {
+
+display : flex;
+width: 100%;
+justify-content: space-evenly;
+}
+
+.runes {
+    padding: 0;
+    width: 25%;
+    padding: 10px;
+    background-color: #bbbbbb;
+    
+    border-radius: 20px;
+  display: grid;
+	gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+
+  }
+  .runes section {
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #EEE;
+    padding : 5px;
+    border-radius: 10px;
+  }
+  .runes section:hover {
+    background-color: #bcda86;
+    left: .1em;
+  }
+  .runes section.selected {
+    background-color: #5e6e3f;
+    color: white;
+  }
+  .runes section.selected:hover {
+    background-color: #5e6647;
+    color: white;
+  }
+  /*.runes .badge {
+
+    font-size: 24px;
+    color: white;
+    padding: 20px;
+    background-color:#405061;    
+    vertical-align: middle;
+    width: 50%;
+    height: 50%;
+    text-align: center;    
+    border-radius: 10px;
+  }*/
+
+  #rune {
+
+  width: 50%;
+  border-radius: 40px;
+  border: 1px solid grey;
+  margin: 0 auto;
+
+  }
