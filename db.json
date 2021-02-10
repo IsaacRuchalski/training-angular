@@ -132,6 +132,24 @@
             "value": "R (case marker)",
             "alphabetId": 1
             
+        },
+
+        {    "id":17,
+            "rune": "ᚠ",
+            "name":"Féhu",
+            "translation": "cattle,wealth",
+            "value": "f",
+            "alphabetId": 2
+            
+        },
+
+        {    "id":18,
+            "rune": "ᛃ",
+            "name":"Jéra",
+            "translation": "harvest, good harvest, year, good year",
+            "value": "j",
+            "alphabetId": 2
+            
         }
       
     ],
@@ -141,8 +159,12 @@
         {"id":1,
         "nom": "Younger Futhark"
         
-        }
-
+    },
+    
+    {"id":2,
+        "nom": "Elder Futhark"
+        
+    },
 
     ]
 
