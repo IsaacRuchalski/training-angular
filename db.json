@@ -10,7 +10,7 @@
             "name":"fé",
             "translation": "wealth,cattle,livestock",
             "value": "f,v",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":2,
@@ -18,7 +18,7 @@
             "name":"úr",
             "translation": "iron,rain,out of",
             "value": "u,o,y,ø,e,w",
-            "alphabetId": 1
+            "alphabetsId": 1
             
             
         },
@@ -27,7 +27,7 @@
             "name":"thurs",
             "translation": "giant",
             "value": "þ,ð",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":4,
@@ -35,7 +35,7 @@
             "name":"as/Oss",
             "translation": "ase,god",
             "value": "a,o,ö,an",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":5,
@@ -43,14 +43,14 @@
             "name":"reið",
             "translation": "r",
             "value": "r",
-            "alphabetId": 1
+            "alphabetsId": 1
         },
         {    "id":6,
             "rune": "ᚴ",
             "name":"kaun",
             "translation": "ulcer",
             "value": "k,g,ng",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":7,
@@ -58,7 +58,7 @@
             "name":"hagall",
             "translation": "hail",
             "value": "h",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":8,
@@ -66,7 +66,7 @@
             "name":"nauðr",
             "translation": "need",
             "value": "n",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":9,
@@ -74,7 +74,7 @@
             "name":"ísa/íss",
             "translation": "ice",
             "value": "i,e,æ,j",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":10,
@@ -82,7 +82,7 @@
             "name":"ár",
             "translation": "plenty",
             "value": "a,æ",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":11,
@@ -90,7 +90,7 @@
             "name":"sól",
             "translation": "sun",
             "value": "s",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":12,
@@ -98,7 +98,7 @@
             "name":"týr",
             "translation": "Týr (a god)",
             "value": "t,d",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":13,
@@ -106,7 +106,7 @@
             "name":"björk/bjarkan/bjarken",
             "translation": "birch",
             "value": "b,p,mb",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":14,
@@ -114,7 +114,7 @@
             "name":"maðr",
             "translation": "man",
             "value": "m",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":15,
@@ -122,7 +122,7 @@
             "name":"lögr",
             "translation": "sea,lake",
             "value": "l",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":16,
@@ -130,7 +130,7 @@
             "name":"yr",
             "translation": "yew",
             "value": "R (case marker)",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
 
@@ -139,7 +139,7 @@
             "name":"Féhu",
             "translation": "cattle,wealth",
             "value": "f",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
 
@@ -148,7 +148,7 @@
             "name":"Jéra",
             "translation": "harvest, good harvest, year, good year",
             "value": "j",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
 
@@ -157,7 +157,7 @@
             "name":"Uruz",
             "translation": "Aurochs",
             "value": "u",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
 
@@ -166,7 +166,7 @@
             "name":"ansuz",
             "translation": "Ansuz (the god)",
             "value": "a",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
 
@@ -175,7 +175,7 @@
             "name":"ansuz",
             "translation": "Ansuz (the god)",
             "value": "a",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
         {    "id":22,
@@ -183,7 +183,7 @@
             "name":"raidō",
             "translation": "ride, journey",
             "value": "r",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
         {    "id":23,
@@ -191,7 +191,7 @@
             "name":"kauna",
             "translation": "ulcer",
             "value": "k",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
         {    "id":24,
@@ -199,7 +199,7 @@
             "name":"gebō",
             "translation": "gift",
             "value": "g",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
         {   
@@ -208,7 +208,7 @@
             "name":"wunjō",
             "translation": "joy",
             "value": "w,v",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },
         {   
             "id":26,
@@ -216,7 +216,7 @@
             "name":"hagalaz",
             "translation": "hail",
             "value": "h",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },
         {   
             "id":27,
@@ -224,7 +224,7 @@
             "name":"naudiz",
             "translation": "need",
             "value": "n",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":28,
@@ -232,7 +232,7 @@
             "name":"isaz",
             "translation": "ice",
             "value": "i",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":29,
@@ -240,7 +240,7 @@
             "name":"Isa",
             "translation": "ice",
             "value": "i",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":30,
@@ -248,7 +248,7 @@
             "name":"jera",
             "translation": "year, harvest",
             "value": "j",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":31,
@@ -256,7 +256,7 @@
             "name":"ihwaz",
             "translation": "yew-tree",
             "value": "y",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":32,
@@ -264,7 +264,7 @@
             "name":"perþo",
             "translation": "secret, destiny",
             "value": "p",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":33,
@@ -272,7 +272,7 @@
             "name":"sōwilō",
             "translation": "Sun",
             "value": "s",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":34,
@@ -280,7 +280,7 @@
             "name":"tīwaz",
             "translation": "Tiwaz (the god)",
             "value": "t",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":35,
@@ -288,7 +288,7 @@
             "name":"berkanan",
             "translation": "Birch",
             "value": "b",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":36,
@@ -296,7 +296,7 @@
             "name":"ehwaz",
             "translation": "horse",
             "value": "e",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":37,
@@ -304,7 +304,7 @@
             "name":"mannaz",
             "translation": "man",
             "value": "m",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":38,
@@ -312,7 +312,7 @@
             "name":"ehwaz",
             "translation": "horse",
             "value": "e",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":39,
@@ -320,7 +320,7 @@
             "name":"laguz",
             "translation": "lake, sea",
             "value": "l",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":40,
@@ -328,7 +328,7 @@
             "name":"ingwaz",
             "translation": "Ingwaz (the god)",
             "value": "ng",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":41,
@@ -336,7 +336,7 @@
             "name":"ōþala",
             "translation": "heritage, state, possession",
             "value": "o",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         },        
         {   
             "id":42,
@@ -344,12 +344,12 @@
             "name":"dagaz",
             "translation": "day",
             "value": "d",
-            "alphabetId": 2            
+            "alphabetsId": 2            
         }
       
     ],
 
-    "alphabet": [
+    "alphabets": [
 
         {"id":1,
         "nom": "Younger Futhark"
