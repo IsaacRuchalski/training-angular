@@ -128,15 +128,6 @@
       "id": 19
     }
   ],
-  "elder": {
-    "runes": [
-      {
-        "id": 16,
-        "rune": "ᛦ",
-        "name": "yr",
-        "translation": "yew",
-        "value": "R (case marker)"
-      }
-    ]
+  "elder": [{"id" : 2}]
   }
 }
