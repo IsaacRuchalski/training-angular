@@ -1,6 +1,8 @@
 {
 
   "runes": [
+
+    {"younger Futhark" :[
       {
           "id":1,
           "rune": "ᚠ",
@@ -113,15 +115,9 @@
           "value": "R (case marker)",
           "alphabetId": 1
       }
-  ],
-
-  "alphabet" :[
-
-    {"id" : 1,
-        "name" : "younger futhark"}
-
-
-
-
+    
+    ]
+    }
   ]
 }
+ 
