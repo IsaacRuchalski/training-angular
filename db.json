@@ -1,8 +1,8 @@
 {
 
-    "runes": [
+    "younger": [
   
-      {"YF" :[
+
         {
             "id":1,
             "rune": "ᚠ",
@@ -115,11 +115,9 @@
             "value": "R (case marker)"
             
         }
-        
       
-      ]},
-      {"EF" : []}
-      
-    ]
+    ],
+
+    "elder": []
 }
    
