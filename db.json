@@ -1,7 +1,5 @@
 {
-
-    "runes": 
-        [
+    "runes":   [
         
 
         {
@@ -10,15 +8,15 @@
             "name":"fé",
             "translation": "wealth,cattle,livestock",
             "value": "f,v",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":2,
-            "rune": "ᚢ",
+            "rune": "ᚢ", 
             "name":"úr",
             "translation": "iron,rain,out of",
             "value": "u,o,y,ø,e,w",
-            "alphabetId": 1
+            "alphabetsId": 1
             
             
         },
@@ -27,15 +25,15 @@
             "name":"thurs",
             "translation": "giant",
             "value": "þ,ð",
-            "alphabetId": 1
+            "alphabetsId": 1
             
-        },
+        }
         {    "id":4,
             "rune": "ᚬ",
             "name":"as/Oss",
             "translation": "ase,god",
             "value": "a,o,ö,an",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":5,
@@ -43,14 +41,14 @@
             "name":"reið",
             "translation": "r",
             "value": "r",
-            "alphabetId": 1
+            "alphabetsId": 1
         },
         {    "id":6,
             "rune": "ᚴ",
             "name":"kaun",
             "translation": "ulcer",
             "value": "k,g,ng",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":7,
@@ -58,7 +56,7 @@
             "name":"hagall",
             "translation": "hail",
             "value": "h",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":8,
@@ -66,7 +64,7 @@
             "name":"nauðr",
             "translation": "need",
             "value": "n",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":9,
@@ -74,7 +72,7 @@
             "name":"ísa/íss",
             "translation": "ice",
             "value": "i,e,æ,j",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":10,
@@ -82,7 +80,7 @@
             "name":"ár",
             "translation": "plenty",
             "value": "a,æ",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":11,
@@ -90,7 +88,7 @@
             "name":"sól",
             "translation": "sun",
             "value": "s",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":12,
@@ -98,7 +96,7 @@
             "name":"týr",
             "translation": "Týr (a god)",
             "value": "t,d",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":13,
@@ -106,7 +104,7 @@
             "name":"björk/bjarkan/bjarken",
             "translation": "birch",
             "value": "b,p,mb",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },    
         {    "id":14,
@@ -114,7 +112,7 @@
             "name":"maðr",
             "translation": "man",
             "value": "m",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":15,
@@ -122,7 +120,7 @@
             "name":"lögr",
             "translation": "sea,lake",
             "value": "l",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
         {    "id":16,
@@ -130,7 +128,7 @@
             "name":"yr",
             "translation": "yew",
             "value": "R (case marker)",
-            "alphabetId": 1
+            "alphabetsId": 1
             
         },
 
@@ -139,7 +137,7 @@
             "name":"Féhu",
             "translation": "cattle,wealth",
             "value": "f",
-            "alphabetId": 2
+            "alphabetsId": 2
             
         },
 
@@ -148,13 +146,208 @@
             "name":"Jéra",
             "translation": "harvest, good harvest, year, good year",
             "value": "j",
-            "alphabetId": 2
+            "alphabetsId": 2
             
+        },
+
+        {    "id":18,
+            "rune": "ᚢ",
+            "name":"Uruz",
+            "translation": "Aurochs",
+            "value": "u",
+            "alphabetsId": 2
+            
+        },
+
+        {    "id":20,
+            "rune": "ᚨ",
+            "name":"ansuz",
+            "translation": "Ansuz (the god)",
+            "value": "a",
+            "alphabetsId": 2
+            
+        },
+
+        {    "id":21,
+            "rune": "ᚨ",
+            "name":"ansuz",
+            "translation": "Ansuz (the god)",
+            "value": "a",
+            "alphabetsId": 2
+            
+        },
+        {    "id":22,
+            "rune": "ᚱ",
+            "name":"raidō",
+            "translation": "ride, journey",
+            "value": "r",
+            "alphabetsId": 2
+            
+        },
+        {    "id":23,
+            "rune": "ᚲ",
+            "name":"kauna",
+            "translation": "ulcer",
+            "value": "k",
+            "alphabetsId": 2
+            
+        },
+        {    "id":24,
+            "rune": "ᚷ",
+            "name":"gebō",
+            "translation": "gift",
+            "value": "g",
+            "alphabetsId": 2
+            
+        },
+        {   
+            "id":25,
+            "rune": "ᚹ",
+            "name":"wunjō",
+            "translation": "joy",
+            "value": "w,v",
+            "alphabetsId": 2            
+        },
+        {   
+            "id":26,
+            "rune": "ᚺ",
+            "name":"hagalaz",
+            "translation": "hail",
+            "value": "h",
+            "alphabetsId": 2            
+        },
+        {   
+            "id":27,
+            "rune": "ᚾ",
+            "name":"naudiz",
+            "translation": "need",
+            "value": "n",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":28,
+            "rune": "ᛁ",
+            "name":"isaz",
+            "translation": "ice",
+            "value": "i",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":29,
+            "rune": "ᛁ",
+            "name":"Isa",
+            "translation": "ice",
+            "value": "i",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":30,
+            "rune": "ᛃ",
+            "name":"jera",
+            "translation": "year, harvest",
+            "value": "j",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":31,
+            "rune": "ᛇ",
+            "name":"ihwaz",
+            "translation": "yew-tree",
+            "value": "y",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":32,
+            "rune": "ᛈ",
+            "name":"perþo",
+            "translation": "secret, destiny",
+            "value": "p",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":33,
+            "rune": "ᛊ",
+            "name":"sōwilō",
+            "translation": "Sun",
+            "value": "s",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":34,
+            "rune": "ᛏ",
+            "name":"tīwaz",
+            "translation": "Tiwaz (the god)",
+            "value": "t",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":35,
+            "rune": "ᛒ",
+            "name":"berkanan",
+            "translation": "Birch",
+            "value": "b",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":36,
+            "rune": "ᛖ",
+            "name":"ehwaz",
+            "translation": "horse",
+            "value": "e",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":37,
+            "rune": "ᛗ",
+            "name":"mannaz",
+            "translation": "man",
+            "value": "m",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":38,
+            "rune": "ᛖ",
+            "name":"ehwaz",
+            "translation": "horse",
+            "value": "e",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":39,
+            "rune": "ᛚ",
+            "name":"laguz",
+            "translation": "lake, sea",
+            "value": "l",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":40,
+            "rune": "ᛜ",
+            "name":"ingwaz",
+            "translation": "Ingwaz (the god)",
+            "value": "ng",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":41,
+            "rune": "ᛟ",
+            "name":"ōþala",
+            "translation": "heritage, state, possession",
+            "value": "o",
+            "alphabetsId": 2            
+        },        
+        {   
+            "id":42,
+            "rune": "ᛞ",
+            "name":"dagaz",
+            "translation": "day",
+            "value": "d",
+            "alphabetsId": 2            
         }
       
     ],
 
-    "alphabet": [
+    "alphabets": [
 
         {"id":1,
         "nom": "Younger Futhark"
