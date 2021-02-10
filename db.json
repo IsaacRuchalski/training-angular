@@ -118,8 +118,8 @@
       
     ],
 
-    "elder": {    "runes": {"id": 1}
+    "elder": {    "runes": [{"id": 1}]}
         
-    }
+    
 }
    
