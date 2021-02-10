@@ -1,121 +1,149 @@
 {
 
-    "younger": [
-  
+    "runes": 
+        [
+        
 
         {
             "id":1,
             "rune": "ᚠ",
             "name":"fé",
             "translation": "wealth,cattle,livestock",
-            "value": "f,v"
+            "value": "f,v",
+            "alphabetId": 1
             
         },
         {    "id":2,
             "rune": "ᚢ",
             "name":"úr",
             "translation": "iron,rain,out of",
-            "value": "u,o,y,ø,e,w"
+            "value": "u,o,y,ø,e,w",
+            "alphabetId": 1
+            
             
         },
         {    "id":3,
             "rune": "ᚦ",
             "name":"thurs",
             "translation": "giant",
-            "value": "þ,ð"
+            "value": "þ,ð",
+            "alphabetId": 1
             
         },
         {    "id":4,
             "rune": "ᚬ",
             "name":"as/Oss",
             "translation": "ase,god",
-            "value": "a,o,ö,an"
+            "value": "a,o,ö,an",
+            "alphabetId": 1
             
         },
         {    "id":5,
             "rune": "ᚱ",
             "name":"reið",
             "translation": "r",
-            "value": "r"
+            "value": "r",
+            "alphabetId": 1
         },
         {    "id":6,
             "rune": "ᚴ",
             "name":"kaun",
             "translation": "ulcer",
-            "value": "k,g,ng"
+            "value": "k,g,ng",
+            "alphabetId": 1
             
         },
         {    "id":7,
             "rune": "ᚼ",
             "name":"hagall",
             "translation": "hail",
-            "value": "h"
+            "value": "h",
+            "alphabetId": 1
             
         },
         {    "id":8,
             "rune": "ᚾ",
             "name":"nauðr",
             "translation": "need",
-            "value": "n"
+            "value": "n",
+            "alphabetId": 1
             
         },
         {    "id":9,
             "rune": "ᛁ",
             "name":"ísa/íss",
             "translation": "ice",
-            "value": "i,e,æ,j"
+            "value": "i,e,æ,j",
+            "alphabetId": 1
             
         },
         {    "id":10,
             "rune": "ᛅ",
             "name":"ár",
             "translation": "plenty",
-            "value": "a,æ"
+            "value": "a,æ",
+            "alphabetId": 1
             
         },
         {    "id":11,
             "rune": "ᛋ",
             "name":"sól",
             "translation": "sun",
-            "value": "s"
+            "value": "s",
+            "alphabetId": 1
             
         },    
         {    "id":12,
             "rune": "ᛏ",
             "name":"týr",
             "translation": "Týr (a god)",
-            "value": "t,d"
+            "value": "t,d",
+            "alphabetId": 1
             
         },    
         {    "id":13,
             "rune": "ᛒ",
             "name":"björk/bjarkan/bjarken",
             "translation": "birch",
-            "value": "b,p,mb"
+            "value": "b,p,mb",
+            "alphabetId": 1
             
         },    
         {    "id":14,
             "rune": "ᛘ",
             "name":"maðr",
             "translation": "man",
-            "value": "m"
+            "value": "m",
+            "alphabetId": 1
             
         },
         {    "id":15,
             "rune": "ᛚ",
             "name":"lögr",
             "translation": "sea,lake",
-            "value": "l"
+            "value": "l",
+            "alphabetId": 1
             
         },
         {    "id":16,
             "rune": "ᛦ",
             "name":"yr",
             "translation": "yew",
-            "value": "R (case marker)"
+            "value": "R (case marker)",
+            "alphabetId": 1
             
         }
       
+    ],
+
+    "alphabet": [
+
+        {"id":1,
+        "nom": "Younger Futhark"
+        
+        }
+
+
     ]
 
     
