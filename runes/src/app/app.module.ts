@@ -7,6 +7,8 @@ import { RunesComponent } from './runes/runes.component';
 import { RunesDetailComponent } from './runes-detail/runes-detail.component';
 import { MessagesComponent } from './messages/messages.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { RunePipePipe } from './rune-pipe.pipe';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -16,9 +18,12 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     RunesDetailComponent,
     MessagesComponent,
     DashboardComponent,
+    RunePipePipe,
+    
     
   ],
   imports: [
+    HttpClientModule,
     BrowserModule,
     AppRoutingModule,
     BrowserModule,

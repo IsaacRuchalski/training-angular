@@ -162,10 +162,10 @@
         },
 
         {    "id":20,
-            "rune": "ᚨ",
-            "name":"ansuz",
-            "translation": "Ansuz (the god)",
-            "value": "a",
+            "rune": "ᚦ",
+            "name":"þurisaz",
+            "translation": "giant",
+            "value": "þ,ð",
             "alphabetsId": 2
             
         },

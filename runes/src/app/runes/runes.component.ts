@@ -9,26 +9,33 @@ import { MessagesService } from '../messages.service';
 })
 export class RunesComponent implements OnInit {
 
-runes: Rune[];
+runesYounger: Rune[];
+runesElder: Rune[];
 selectedRune: Rune;
   constructor(private runeService: RuneService , private messagesService: MessagesService) { }
 
   ngOnInit(): void {
 
-    this.getRunes();
-
+    this.getRunesYounger();
+    this.getRunesElder();
   }
 
   onSelect(rune: Rune): void{
 
     this.selectedRune = rune;
     //this.messagesService.clear();
-    this.messagesService.add(`RunesComponent: Selected rune id=${rune.id}`);
+    this.messagesService.add(`RunesComponent: Selected rune id=${rune.alphaId}`);
   }
 
-  getRunes(): void {
+  getRunesYounger(): void {
 
-    this.runeService.getRunes().subscribe(runes => this.runes = runes);
+    this.runeService.getAlphabet(1).subscribe(runesYounger => this.runesYounger = runesYounger);
+    
+  }
+
+  getRunesElder(): void {
+
+    this.runeService.getAlphabet(2).subscribe(runesElder => this.runesElder = runesElder);
 
   }
 }

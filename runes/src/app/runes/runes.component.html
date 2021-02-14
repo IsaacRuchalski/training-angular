@@ -7,18 +7,39 @@
 <h2>list of runes in Younger Fuþark</h2>
 
 <div id = "interface">
+
+      <h1>Younger Fuþark</h1>
       <div class = "runes">
-      <section *ngFor ="let rune of runes" (click) = "onSelect(rune)" [class.selected]= "rune === selectedRune">
-         
-         
-            <h3 class = "badge">{{rune.rune}}</h3>
+            
+            <section *ngFor ="let rune of runesYounger"  routerLink = "/detail/{{rune.id}}">
+            
+            
+                  <h3 class = "badge">{{rune.rune}}
 
-      </section>
+
+                  </h3>
+            </section>
+
       </div>
-
-      
-      
-      <app-runes-detail [rune]="selectedRune" id = "rune"></app-runes-detail>
-      
-
 </div>
+
+
+<div id = "interface">
+      <h1>Elder Fuþark</h1>
+      <div class = "runes">
+            
+            <section *ngFor ="let rune of runesElder"  routerLink = "/detail/{{rune.id}}">
+            
+            
+                  <h3 class = "badge">{{rune.rune}}
+
+
+                  </h3>
+            </section>
+
+      </div>
+</div>
+      
+      <!--<app-runes-detail [rune]="selectedRune" id = "rune"></app-runes-detail>-->
+      
+
