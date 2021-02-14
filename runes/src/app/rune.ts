@@ -4,5 +4,5 @@ export interface Rune {
     name: string;
     translation: string;
     value: string;
-    alphaId: number
+    alphaId: number;
   }
