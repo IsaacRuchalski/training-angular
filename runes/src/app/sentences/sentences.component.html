@@ -1,0 +1,9 @@
+
+
+<div id = "head">
+    <input [(ngModel)]="search">
+    <div id = "sect">{{search}}</div>
+</div>
+
+<hr>
+  <app-sentences-child [search] = "search"></app-sentences-child>

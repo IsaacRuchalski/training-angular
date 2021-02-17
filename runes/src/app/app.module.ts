@@ -9,6 +9,9 @@ import { MessagesComponent } from './messages/messages.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { RunePipePipe } from './rune-pipe.pipe';
 import { HttpClientModule } from '@angular/common/http';
+import { SentencesComponent } from './sentences/sentences.component';
+import { SentencesChildComponent } from './sentences-child/sentences-child.component';
+import { RunesSearchComponent } from './runes-search/runes-search.component';
 
 
 @NgModule({
@@ -19,6 +22,9 @@ import { HttpClientModule } from '@angular/common/http';
     MessagesComponent,
     DashboardComponent,
     RunePipePipe,
+    SentencesComponent,
+    SentencesChildComponent,
+    RunesSearchComponent,
     
     
   ],

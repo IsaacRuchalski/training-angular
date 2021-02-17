@@ -1,0 +1,19 @@
+
+<!--<div *ngIf="changeDetected">-->
+        
+        <h4>found {{countanswers}} entries</h4>
+
+
+    <div *ngFor='let answer of answers' >
+        
+        <div id = "entry">
+            
+            <section>
+                <p><b>{{answer.id}}</b> - {{answer.base}},{{answer.translation}}</p>
+            </section>
+            
+        
+        </div>
+
+    </div>
+

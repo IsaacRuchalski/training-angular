@@ -4,20 +4,20 @@
 <div><span>{{rune.rune}} represents {{rune.value}}</span></div>
 
 -->
-<h2>list of runes in Younger Fuþark</h2>
+
 
 <div id = "interface">
 
-      <h1>Younger Fuþark</h1>
+      <h2>Younger Fuþark</h2>
       <div class = "runes">
             
             <section *ngFor ="let rune of runesYounger"  routerLink = "/detail/{{rune.id}}">
             
             
-                  <h3 class = "badge">{{rune.rune}}
+                  <p class = "badge">{{rune.rune}}
 
 
-                  </h3>
+                  </p>
             </section>
 
       </div>
@@ -25,16 +25,16 @@
 
 
 <div id = "interface">
-      <h1>Elder Fuþark</h1>
+      <h2>Elder Fuþark</h2>
       <div class = "runes">
             
             <section *ngFor ="let rune of runesElder"  routerLink = "/detail/{{rune.id}}">
             
             
-                  <h3 class = "badge">{{rune.rune}}
+                  <p class = "badge">{{rune.rune}}
 
 
-                  </h3>
+                  </p>
             </section>
 
       </div>

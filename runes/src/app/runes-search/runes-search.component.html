@@ -1,0 +1,17 @@
+<hr>
+
+<form #runeForm="ngForm">
+
+
+    <input type="text" class="form-control" id="rune"
+        required
+        [(ngModel)]="model.rune" name="rune">
+            <br>
+        <select class="form-control" id="name" required [(ngModel)]="model.name" name = "name">
+            <option *ngFor="let rune of runes" [value]="rune.name">{{rune.name}}</option>
+        </select>
+        <input type="text" class="form-control" id="rune"
+        required
+        [(ngModel)]="model.translation" name="translation">
+    
+</form>

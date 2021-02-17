@@ -5,6 +5,12 @@ div label, div span {
 
 }
 
+h2 {
+
+width: 20%;
+
+}
+
 #interface {
 
 display : flex;
@@ -18,8 +24,8 @@ flex-direction: column;
     width: 50%;
     padding: 10px;
     background-color: #bbbbbb;
-    
     border-radius: 20px;
+  
   display: grid;
 	gap: 1rem;
 	grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
@@ -34,7 +40,7 @@ flex-direction: column;
     
     background-color: #EEE;
     padding : 5px;
-    border-radius: 10px;
+    border-radius: 20px;
   }
   .runes section:hover {
     background-color: #bcda86;
