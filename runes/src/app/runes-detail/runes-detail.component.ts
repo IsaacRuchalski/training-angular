@@ -23,9 +23,8 @@ export class RunesDetailComponent implements OnInit {
   }
 
   getRune(): void {
-    const id = +this.route.snapshot.paramMap.get('id');
-    this.runeService.getRune(id)
-      .subscribe(rune => this.rune = rune);
+    const id = this.route.snapshot.paramMap.get('id');
+  //  this.runeService.getRune(id).subscribe(rune => this.rune = rune);
   }
 
   goBack(): void {
